@@ -81,10 +81,10 @@ WSGI_APPLICATION = 'insurance.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'insurance_db',                      
-        'USER': 'yogeesh',
-        'PASSWORD': 'qwedsa@123',
-        'HOST': 'localhost',
+        'NAME': 'd2r2o16dlmjat7',                      
+        'USER': 'zuuwnahalmjxdy',
+        'PASSWORD': 'd8974766fcbfb86416e533dd429dcd03170f55bdefef3c46dfcef12198d98fc7',
+        'HOST': 'ec2-44-195-247-84.compute-1.amazonaws.com',
         'PORT': '5432',
     }
 }
